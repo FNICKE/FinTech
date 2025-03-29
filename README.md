@@ -1,6 +1,8 @@
-# 🌟 AI-Powered Personalized Accountant App 💰🤖
+# 🌟 Finova - AI-Powered Personalized Accountant App 💰🤖
 
 ## 🚀 Overview
+
+![Overview](Frontend/image.png)
 
 The **AI-Powered Personalized Accountant App** is a smart financial management system that helps users track their expenses, investments, and tax details with AI-driven insights. Built using the **MERN stack (MongoDB, Express, React, Node.js)**, this app provides a seamless and interactive experience for managing finances efficiently.
 
@@ -30,8 +32,8 @@ The **AI-Powered Personalized Accountant App** is a smart financial management s
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/AI-Accountant-App.git
-cd AI-Accountant-App
+git clone https://github.com/your-username/Finova.git
+cd Finova
 ```
 
 ### 2️⃣ Install Dependencies
@@ -89,5 +91,5 @@ This project is open-source and licensed under the **MIT License**.
 
 ---
 
-
+### 💡 Developed by [Your Name] ✨
 
