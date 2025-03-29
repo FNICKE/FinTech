@@ -1,0 +1,11 @@
+// File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
+import { APIResource } from "../resource.mjs";
+export class Models extends APIResource {
+    /**
+     * Lists all of Together's open-source models
+     */
+    list(options) {
+        return this._client.get('/models', options);
+    }
+}
+//# sourceMappingURL=models.mjs.map
