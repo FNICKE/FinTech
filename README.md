@@ -32,7 +32,7 @@ The **AI-Powered Personalized Accountant App** is a smart financial management s
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Fintech.git
+git clone https://github.com/FNICKE/Fintech.git
 cd Fintech
 ```
 
