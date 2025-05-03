@@ -10,7 +10,7 @@ The **AI-Powered Personalized Accountant App** is a smart financial management s
 
 - 🔐 **User Authentication** (Login/Register with JWT) - Secure access with encrypted credentials and session management.
 - 📊 **Dynamic Financial Dashboard** (Real-time updates without reloading) - View your financial data instantly with an intuitive and interactive UI.
-- 🏦 **Bank Balance & Transactions Overview** - Monitor account balances, recent transactions, and spending trends in one place.
+- 🏦 **Bank Balance and Transactions Overview** - Monitor account balances, recent transactions, and spending trends in one place.
 - 📈 **Investment & Goal Tracking** - Set financial goals and track investments with personalized insights.
 - ⚠️ **Fraud Alerts & Security Insights** - AI-driven fraud detection system that notifies users of suspicious transactions.
 - 🧾 **Tax Overview & Smart Recommendations** - Get AI-powered tax planning strategies and deductions to optimize savings.
